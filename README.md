@@ -1,13 +1,13 @@
-FITUR :
-GET '/api/data' = Mengambil data yang disimpan //
-POST '/api/data' = Menyimpan data baru //
-simpanData = array untuk penyimpanan data sementara
+##fitur :
+1. GET '/api/data' (Mengambil data yang disimpan)
+2. POST '/api/data' (Menyimpan data baru)
+3. simpanData = array untuk penyimpanan data sementara
 
-CARA MENJALANKAN :
-1. git clone https://github.com/tRucedhel/technical-test-backend.git <= Clone Repository
-2. cd technical-test-backend <= Masuk kedalam folder technical-test-backend
-3. cd backend <= Masuk kedalam folder backend
-4. npm install <= install dependencies, tunggu hingga selesai
-5. node server.js <= menjalankan server
+##cara menjalankan :
+1. Masuk ke terminal/bash
+2. git clone https://github.com/tRucedhel/technical-test-backend.git
+3. cd technical-test-backend
+4. cd backend
+5. npm install
+6. node server.js
 server akan berjalan di http://localhost:8000
-
