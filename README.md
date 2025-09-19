@@ -3,6 +3,9 @@
 2. POST '/api/data' (Menyimpan data baru)
 3. simpanData = array untuk penyimpanan data sementara
 
+##syarat :
+1. install node.js (versi 14 atau lebih) dan npm
+
 ##cara menjalankan :
 1. Masuk ke terminal/bash
 2. git clone https://github.com/tRucedhel/technical-test-backend.git
